@@ -1,4 +1,4 @@
-# Mini_Galaxy
+# data modeling with Cassandra 
 ETL Pipeline is created for Pre-Processing the data Files which will be used to populate Apache Cassandra tables.
 The CSV file titled <font color=red>event_datafile_new.csv</font>, located within the Workspace directory.  The event_datafile_new.csv contains the following columns: 
 - artist 
